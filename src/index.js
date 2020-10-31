@@ -36,7 +36,7 @@ class Index extends React.Component {
           style={{ height: '100%', borderRight: 0 }}
         >
            <Menu.Item key="/"><Link to="/">主页</Link></Menu.Item>
-           <Menu.Item key="/data"><Link to="/data">数据管理</Link></Menu.Item>
+           <Menu.Item key="/data"><Link to="/data">数据源管理</Link></Menu.Item>
           
           <SubMenu key="sub2" icon={<LaptopOutlined />} title="业务校验">
             <Menu.Item key="5">option5</Menu.Item>
