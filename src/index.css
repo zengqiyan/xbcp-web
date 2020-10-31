@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.menu-url-post{
+  color: #61affd;
+  text-align: left;
+  /* width: 64px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-put{
+  color: #fca130;
+  text-align: left;
+  /* width: 64px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-get{
+  color: #0d5aa7;
+  text-align: left;
+  /* width: 64px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-head{
+  color: #9012fe;
+  text-align: left;
+  /* width: 64px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-delete{
+  color:#f93e3e;
+  text-align: left;
+  width: 64px;
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-patch{
+  color: #50e3c2;
+  text-align: left;
+  /* width: 64px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+.menu-url-options{
+  color: #49cc90;
+  text-align: left;
+  /* width: 49px; */
+  display: inline-block;
+  font-weight: bold;
+  padding-right: 8px;
+}
+
+.debug-span-label {
+  color: #919191;
+}
+.debug-span-value {
+  color: #4dc095;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.sbu-api-title {
+  font-weight: bold;
+  width: 65px;
+  display: inline-block;
+}
